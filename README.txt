@@ -15,7 +15,7 @@ Xem tại data.xlsx
 # Công nghệ sử dụng
 Semantic Search - Tìm kiếm ngữ nghĩa - chatbot_logic.py - Trả lời câu hỏi dựa trên Ý nghĩa (không chỉ từ khóa).
 Word Embeddings - Vector hóa ngôn ngữ - chatbot_logic.py - Biến câu hỏi thành vector số học để máy tính tính toán.
-Sentence Transformers - Mô hình AI (BERT-based) - chatbot_logic.py - Công cụ tạo ra các vector Embeddings chất lượng cao.
+Sentence Transformers - Mô hình AI (BERT-based) - chatbot_logic.py - Công cụ tạo ra các vector Embeddings.
 Cosine Similarity - Độ tương đồng Cosine - chatbot_logic.py - Thuật toán để đo lường mức độ khớp giữa hai vector câu hỏi.
 Flask - Web Framework (Python) - app.py - Xử lý yêu cầu từ trình duyệt, định tuyến URL và tạo Web API.
 Pandas - Thư viện xử lý dữ liệu - chatbot_logic.py - Đọc, làm sạch và chuẩn hóa dữ liệu FAQ từ file CSV/Excel.
