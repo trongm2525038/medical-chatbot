@@ -1,5 +1,6 @@
 # medical-chatbot
 pip install flask
+
 pip install pandas openpyxl torch transformers sentence-transformers numpy scikit-learn
 
 python app.py
